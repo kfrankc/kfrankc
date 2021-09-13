@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Product Manager with an engineering background + a focus on data and ml products
+
 https://kfrankc.com
 
 <!--
